@@ -2,10 +2,10 @@
 ------------------
 由于 Sublime Text 3 内嵌的 Python 限制，[ConvertToUTF8](https://github.com/seanliang/ConvertToUTF8) 可能无法正常工作。你可以安装本插件来解决这一问题。
 
-我现在正努力让 ConvertToUTF8 同时支持 Sublime Text 2 和 3。如果您觉得本插件对您有所帮助，您可以请我喝杯咖啡让我保持清醒。谢！:)
+如果您觉得本插件有用并想给予支持，可通过支付宝或Paypal捐助。感谢！:)
 
-[![通过支付宝请我](http://dl.dropbox.com/u/31937639/alipay.png)](https://me.alipay.com/seanliang)
-[![通过PayPal请我](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GP6Y25N7Q9E26&lc=US&item_name=Buy%20me%20a%20cup%20of%20coffee&item_number=ConvertToUTF8&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest)
+![支付宝钱包扫一下](http://dl.dropboxusercontent.com/u/31937639/alipay_code.png) 或 
+[![PayPal捐助](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GP6Y25N7Q9E26&lc=US&item_name=Buy%20me%20a%20cup%20of%20coffee&item_number=ConvertToUTF8&no_note=0&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHostedGuest)
 
 安装
 ------------------
